@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mmhayD0rC+rnNDzvEk0jyBEpchaxx+SPfD29FIFSCUBoI8yGazm3WmQ4wPhF+g+f+OmCThs+MC9yiQLxqyYpgg==",
+  "dgSpecHash": "T40Rt7xiAgBSbqr220O5WMCU+kKLhSRorzBxlv15uSfgcClxX0/kaJ5KLhB4G1NS5V81AlC5gtgcfpLTj7d8CA==",
   "success": true,
   "projectFilePath": "C:\\Dev\\13_Github\\Video-Clicker\\Video-Clicker\\Video-Clicker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ms_LP\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }

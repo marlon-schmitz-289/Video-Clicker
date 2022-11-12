@@ -8,4 +8,26 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\Images\clicker.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\Music\" />
+    <Folder Include="Assets\Icons\" />
+    <Folder Include="Assets\SFX\" />
+    <Folder Include="MVVM\Model\" />
+    <Folder Include="MVVM\Helper\" />
+    <Folder Include="MVVM\Service\" />
+    <Folder Include="MVVM\View\Pages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\clicker.png" />
+  </ItemGroup>
+
 </Project>
